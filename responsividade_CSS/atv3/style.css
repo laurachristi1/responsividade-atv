@@ -1,0 +1,11 @@
+.principal{
+ 
+    text-align: justify;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    #texto{
+        font-family: 'Franklin Gothic Medium';
+    }
+  }
